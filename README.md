@@ -1,68 +1,45 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="./public/logo192.png" alt="React" width="96">
 
-## Available Scripts
+# Jogo da Velha (com React)
 
-In the project directory, you can run:
+> Exemplo simples de Jogo da Velha construído com React, utilizado como material de apoio para palestra na SESINFO 2019.
 
-### `npm start`
+A estrutura deste projeto foi gerada com o [Create React App](https://github.com/facebook/create-react-app).
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Instalando
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Após clonar o repositório, em um terminal no diretório do projeto, execute:
 
-### `npm test`
+``` bash
+npm install
+```
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Utilizando
 
-### `npm run build`
+Ainda em um terminal no diretório do projeto, basta executar:
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+``` bash
+npm start
+```
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Isto executará a aplicação em modo de desenvolvimento. Abra [http://localhost:3000](http://localhost:3000) para poder visualizar em seu navegador.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+No modo de desenvolvimento, a página recarrega automaticamente se você fizer alterações. Brinque com o código-fonte para se aprofundar!
 
-### `npm run eject`
+## Saiba mais
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Você pode aprender mais sobre a concepção e configuração de projetos React através da [documentação do Create React App](https://facebook.github.io/create-react-app/docs/getting-started). Para aprender a biblioteca React em si, dê uma olhada na [documentação do React](https://reactjs.org/).
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Ainda está com alguma dúvida?** Você pode encontrar o autor da _talk_ que originou este material nas [comunidades Vue.js Brasil](https://github.com/vuejs-br/comunidades). Mesmo que seja para falar sobre React. 😉
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Sentindo-se do contra?
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Está passando por um momento de angústia por ter encontrado este exemplo em React e prefere Vue? Sem problemas, acesse agora mesmo a [versão em Vue](https://github.com/ErickPetru/sesinfo2019-vue-tictactoe) que foi construída para a mesma _talk_ que originou este material.
 
-## Learn More
+Uma vez que o principal objetivo da _talk_ foi oferecer uma visão geral entre React e Vue, como se assemelham em muitas coisas e como diferem em algumas outras, pode ser uma boa oportunidade para comparar como alguns conceitos corriqueiros são implementados nestes dois ecossistemas.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Licença
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Copyright &copy; 2019.
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Licenciado nos termos da [licença MIT](LICENSE).

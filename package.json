@@ -1,7 +1,12 @@
 {
   "name": "sesinfo2019-react-tictactoe",
-  "version": "0.1.0",
-  "private": true,
+  "description": "Exemplo simples de Jogo da Velha construído com React",
+  "author": "Erick Eduardo Petrucelli <erick.petrucelli@fatectq.edu.br>",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ErickPetru/sesinfo2019-react-tictactoe"
+  },
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
