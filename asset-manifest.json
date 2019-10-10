@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/sesinfo2019-vue-tictactoe/static/css/main.4be0e0c3.chunk.css",
-    "main.js": "/sesinfo2019-vue-tictactoe/static/js/main.dfa2104e.chunk.js",
-    "main.js.map": "/sesinfo2019-vue-tictactoe/static/js/main.dfa2104e.chunk.js.map",
-    "runtime-main.js": "/sesinfo2019-vue-tictactoe/static/js/runtime-main.f04c55ef.js",
-    "runtime-main.js.map": "/sesinfo2019-vue-tictactoe/static/js/runtime-main.f04c55ef.js.map",
-    "static/js/2.f7db762b.chunk.js": "/sesinfo2019-vue-tictactoe/static/js/2.f7db762b.chunk.js",
-    "static/js/2.f7db762b.chunk.js.map": "/sesinfo2019-vue-tictactoe/static/js/2.f7db762b.chunk.js.map",
-    "index.html": "/sesinfo2019-vue-tictactoe/index.html",
-    "precache-manifest.b3d57713615da36eb86175a03c92c30d.js": "/sesinfo2019-vue-tictactoe/precache-manifest.b3d57713615da36eb86175a03c92c30d.js",
-    "service-worker.js": "/sesinfo2019-vue-tictactoe/service-worker.js",
-    "static/css/main.4be0e0c3.chunk.css.map": "/sesinfo2019-vue-tictactoe/static/css/main.4be0e0c3.chunk.css.map"
+    "main.css": "/sesinfo2019-react-tictactoe/static/css/main.d74830f4.chunk.css",
+    "main.js": "/sesinfo2019-react-tictactoe/static/js/main.dfa2104e.chunk.js",
+    "main.js.map": "/sesinfo2019-react-tictactoe/static/js/main.dfa2104e.chunk.js.map",
+    "runtime-main.js": "/sesinfo2019-react-tictactoe/static/js/runtime-main.7f43a673.js",
+    "runtime-main.js.map": "/sesinfo2019-react-tictactoe/static/js/runtime-main.7f43a673.js.map",
+    "static/js/2.f7db762b.chunk.js": "/sesinfo2019-react-tictactoe/static/js/2.f7db762b.chunk.js",
+    "static/js/2.f7db762b.chunk.js.map": "/sesinfo2019-react-tictactoe/static/js/2.f7db762b.chunk.js.map",
+    "index.html": "/sesinfo2019-react-tictactoe/index.html",
+    "precache-manifest.b2fe1c1a4011043f9e5b6f41a554556c.js": "/sesinfo2019-react-tictactoe/precache-manifest.b2fe1c1a4011043f9e5b6f41a554556c.js",
+    "service-worker.js": "/sesinfo2019-react-tictactoe/service-worker.js",
+    "static/css/main.d74830f4.chunk.css.map": "/sesinfo2019-react-tictactoe/static/css/main.d74830f4.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.f04c55ef.js",
+    "static/js/runtime-main.7f43a673.js",
     "static/js/2.f7db762b.chunk.js",
-    "static/css/main.4be0e0c3.chunk.css",
+    "static/css/main.d74830f4.chunk.css",
     "static/js/main.dfa2104e.chunk.js"
   ]
 }
