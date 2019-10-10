@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8059d1cbd2cef32f339c5b71ee941d9",
+    "revision": "709a13e7a03303b39a5e0f6d3b90d2c1",
     "url": "/sesinfo2019-react-tictactoe/index.html"
   },
   {
-    "revision": "ab5cefb43e126c12d1d3",
+    "revision": "d9e650bb9e51840146cf",
     "url": "/sesinfo2019-react-tictactoe/static/css/main.d74830f4.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sesinfo2019-react-tictactoe/static/js/2.f7db762b.chunk.js"
   },
   {
-    "revision": "ab5cefb43e126c12d1d3",
-    "url": "/sesinfo2019-react-tictactoe/static/js/main.dfa2104e.chunk.js"
+    "revision": "d9e650bb9e51840146cf",
+    "url": "/sesinfo2019-react-tictactoe/static/js/main.d806252f.chunk.js"
   },
   {
     "revision": "bd4bc7244a7d9e3698bc",
