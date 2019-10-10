@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sesinfo2019-react-tictactoe/static/css/main.d74830f4.chunk.css",
-    "main.js": "/sesinfo2019-react-tictactoe/static/js/main.cfd85a71.chunk.js",
-    "main.js.map": "/sesinfo2019-react-tictactoe/static/js/main.cfd85a71.chunk.js.map",
+    "main.js": "/sesinfo2019-react-tictactoe/static/js/main.efccbc04.chunk.js",
+    "main.js.map": "/sesinfo2019-react-tictactoe/static/js/main.efccbc04.chunk.js.map",
     "runtime-main.js": "/sesinfo2019-react-tictactoe/static/js/runtime-main.7f43a673.js",
     "runtime-main.js.map": "/sesinfo2019-react-tictactoe/static/js/runtime-main.7f43a673.js.map",
     "static/js/2.f7db762b.chunk.js": "/sesinfo2019-react-tictactoe/static/js/2.f7db762b.chunk.js",
     "static/js/2.f7db762b.chunk.js.map": "/sesinfo2019-react-tictactoe/static/js/2.f7db762b.chunk.js.map",
     "index.html": "/sesinfo2019-react-tictactoe/index.html",
-    "precache-manifest.4dbd5131d38748d7ab7a997e2fb5381f.js": "/sesinfo2019-react-tictactoe/precache-manifest.4dbd5131d38748d7ab7a997e2fb5381f.js",
+    "precache-manifest.6336bc0bd31e3b270bb645c79dfa4008.js": "/sesinfo2019-react-tictactoe/precache-manifest.6336bc0bd31e3b270bb645c79dfa4008.js",
     "service-worker.js": "/sesinfo2019-react-tictactoe/service-worker.js",
     "static/css/main.d74830f4.chunk.css.map": "/sesinfo2019-react-tictactoe/static/css/main.d74830f4.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.7f43a673.js",
     "static/js/2.f7db762b.chunk.js",
     "static/css/main.d74830f4.chunk.css",
-    "static/js/main.cfd85a71.chunk.js"
+    "static/js/main.efccbc04.chunk.js"
   ]
 }
