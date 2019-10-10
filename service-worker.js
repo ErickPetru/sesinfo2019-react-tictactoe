@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sesinfo2019-react-tictactoe/precache-manifest.6336bc0bd31e3b270bb645c79dfa4008.js"
+  "/sesinfo2019-react-tictactoe/precache-manifest.7a73d2ac77e90d93e1df66b61f239e69.js"
 );
 
 self.addEventListener('message', (event) => {

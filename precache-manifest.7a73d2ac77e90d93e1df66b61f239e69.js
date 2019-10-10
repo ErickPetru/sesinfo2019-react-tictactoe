@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59b5fee2e267c38812f7a0d55e035269",
+    "revision": "8d3030b5ffb971f00bc9fda1b6a47c39",
     "url": "/sesinfo2019-react-tictactoe/index.html"
   },
   {
