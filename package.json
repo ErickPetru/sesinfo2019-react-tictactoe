@@ -8,7 +8,7 @@
     "url": "https://github.com/ErickPetru/sesinfo2019-react-tictactoe"
   },
   "license": "MIT",
-  "homepage": "https://erickpetru.github.io/sesinfo2019-vue-tictactoe/",
+  "homepage": "https://erickpetru.github.io/sesinfo2019-react-tictactoe/",
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
