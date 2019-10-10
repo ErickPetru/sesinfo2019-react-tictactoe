@@ -91,7 +91,7 @@ export default class Game extends React.Component {
       <div className="game">
         <div className="game-area">
           <div className="game-title">
-            <img src="./logo.svg" alt="React" />
+            <img src="logo.svg" alt="React" />
             <h1>Jogo da Velha</h1>
           </div>
 
